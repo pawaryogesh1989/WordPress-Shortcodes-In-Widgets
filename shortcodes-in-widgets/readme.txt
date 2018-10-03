@@ -2,8 +2,8 @@
 Contributors: pawaryogesh1989, clarionwpdeveloper
 Tags: Shortcodes In Widgets, shortcode, widget shortcode, use shortcode in widget, shortcode in widget, shortcode widget, display code in widget using shortcode, use plugin shortcode in widget, multiple shortcodes in widget.
 Requires at least: 3.0.1
-Tested up to: 4.5.2
-Stable tag: 4.5
+Tested up to: 4.9.8
+Stable tag: 4.9
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
