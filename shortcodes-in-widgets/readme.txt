@@ -1,9 +1,9 @@
 === Shortcodes In Widgets ===
 Contributors: pawaryogesh1989, clarionwpdeveloper
 Tags: Shortcodes In Widgets, shortcode, widget shortcode, use shortcode in widget, shortcode in widget, shortcode widget, display code in widget using shortcode, use plugin shortcode in widget, multiple shortcodes in widget.
-Requires at least: 3.0.1
-Tested up to: 4.9.8
-Stable tag: 4.9
+Requires at least: 4.6
+Tested up to: 5.2.4
+Stable tag: 5.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -16,7 +16,12 @@ This plugin allows users to put shortcode of any plugin or custom code in an wid
 = Details =
 
 * Add shortcode in an widget and the output will be displayed in frontend.
-* For more details please see the screenshots.
+
+== Changelog ==
+
+= 2.0.0 =
+* Compatibility changes to make it work with latest WordPress version.
+* Code changes for PHP 7.2 version.
 
 == Installation ==
 
